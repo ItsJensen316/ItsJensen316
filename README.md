@@ -1,9 +1,9 @@
 <h1 align="center">
-  Hey there! 👋 I'm Jensen Jose
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F94F6D&width=435&lines=Hey+there!+%F0%9F%91%8B+I'm+Jensen+Jose;A+Coder+Who+Loves+to+Create" alt="Animated Heading" />
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=08F7FE&width=435&lines=Software+Engineer+in+Making;Machine+Learning+Enthusiast;Open+Source+Contributor;Pythonista+%F0%9F%90%8D;Loves+Building+Cool+Stuff;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="240" alt="Code Animation" />
 </div>
 
 ---
@@ -36,6 +36,10 @@ Databases:      MySQL, MongoDB
 Tools:          Git, VSCode, Postman, Figma, Power BI
 ```
 
+<div align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="150" alt="Tech Animation" />
+</div>
+
 ---
 
 ## 🧠 Projects I'm Proud Of
@@ -44,6 +48,10 @@ Tools:          Git, VSCode, Postman, Figma, Power BI
 - 🕽️ [Side-Scrolling Platformer](https://github.com/ItsJensen316/Pygame-Project)
 - 👨‍💼 [Employee Management System](https://drive.google.com/file/d/1oolf2V2ATmHIe9HHmYZsOjFjyG8TtBfr/view)
 - 🧠 [Faculty Upscaling Platform](https://drive.google.com/file/d/1UmRA_YZNgE_Ma137eHOwMWT8VNOCxbJx/view)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="160" alt="Rocket Animation" />
+</div>
 
 ---
 
@@ -61,20 +69,20 @@ Tools:          Git, VSCode, Postman, Figma, Power BI
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jensen-jose-bb0485246/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:itsjensenjose@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/ItsJensen316">
-    <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9nMGl6djV4ODR3aHh1YWxkaXh3bms4ZzZoMnpoeXV1cGdtODUwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="250" alt="Animated Developer" style="border-radius: 10px;" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Animated Developer" />
 </p>
 
 <p align="center">
