@@ -1,6 +1,6 @@
-<h1 align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F94F6D&width=435&lines=Hey+there!+%F0%9F%91%8B+I'm+Jensen+Jose;A+Coder+Who+Loves+to+Create" alt="Animated Heading" />
-</h1>
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="240" alt="Code Animation" />
