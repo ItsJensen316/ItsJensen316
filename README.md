@@ -25,7 +25,7 @@ Name: Jensen Jose
 - 🎯 Vision: Solve real-world problems using beautiful code
   
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9nMGl6djV4ODR3aHh1YWxkaXh3bms4ZzZoMnpoeXV1cGdtODUwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Tech Animation" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9nMGl6djV4ODR3aHh1YWxkaXh3bms4ZzZoMnpoeXV1cGdtODUwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="150" alt="Tech Animation" />
 </div>
 
 ---
