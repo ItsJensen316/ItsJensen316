@@ -74,7 +74,7 @@ Tools:          Git, VSCode, Postman, Figma, Power BI
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKxOhF6a8nN7oTC/giphy.gif" width="250" alt="Animated Developer" style="border-radius: 10px;" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9nMGl6djV4ODR3aHh1YWxkaXh3bms4ZzZoMnpoeXV1cGdtODUwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="250" alt="Animated Developer" style="border-radius: 10px;" />
 </p>
 
 <p align="center">
