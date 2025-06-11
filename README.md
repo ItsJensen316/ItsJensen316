@@ -1,6 +1,6 @@
-<div align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F94F6D&width=435&lines=Hey+there!+%F0%9F%91%8B+I'm+Jensen+Jose;A+Coder+Who+Loves+to+Create" alt="Animated Heading" />
-</div>
+</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="240" alt="Code Animation" />
@@ -23,6 +23,11 @@ Name: Jensen Jose
 - 🗨️ Ask me about: Python, Git, Pygame, MongoDB, SQL, Clean Code
 - 🧠 Known for: Innovation, Curiosity, and a never-ending drive to explore tech frontiers
 - 🎯 Vision: Solve real-world problems using beautiful code
+  
+<div align="center">
+  <img src="
+https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW9nMGl6djV4ODR3aHh1YWxkaXh3bms4ZzZoMnpoeXV1cGdtODUwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" width="150" alt="Tech Animation" />
+</div>
 
 ---
 
